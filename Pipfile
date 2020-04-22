@@ -22,3 +22,7 @@ redis = "*"
 flask-dropzone = "*"
 flask-wtf = "*"
 flask-ckeditor = "*"
+
+
+[requires]
+python_version='3.5'
